@@ -1,0 +1,17 @@
+{
+    "resultCode": 200,
+    "errorKey": null,
+    "result": [
+               {
+                   "accessId": "LyZKbKBhvWAm9cQFg",
+                   "isAnyTime": true,
+                   "range": 0,
+                   "repeatInterval": null,
+                   "on": null,
+                   "startDate": null,
+                   "expirationDate": null,
+                   "fromTime": null,
+                   "toTime": null
+               }
+               ]
+}

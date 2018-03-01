@@ -1,0 +1,49 @@
+{
+    "resultCode": 200,
+    "errorKey": null,
+    "result": [
+               {
+                   "accessId": "LyZKbKBhvWAm9cQFg",
+                   "isAnyTime": false,
+                   "range": 0,
+                   "repeatInterval": "everyDay",
+                   "on": null,
+                   "startDate": "2018-03-01T12:44:01.251Z",
+                   "expirationDate": "2018-03-08T13:44:07.649Z",
+                   "fromTime": "01:00:00",
+                   "toTime": "16:00:00"
+               },
+               {
+                   "accessId": "LyZKbKBhvWAm9cQFg",
+                   "isAnyTime": false,
+                   "range": 0,
+                   "repeatInterval": "weekDays",
+                   "on": [
+                          "monday",
+                          "tuesday",
+                          "wednesday",
+                          "thursday"
+                          ],
+                   "startDate": "2018-03-02T08:44:22.706Z",
+                   "expirationDate": "2018-03-08T08:44:26.084Z",
+                   "fromTime": "03:00:00",
+                   "toTime": "16:00:00"
+               },
+               {
+                   "accessId": "LyZKbKBhvWAm9cQFg",
+                   "isAnyTime": false,
+                   "range": 0,
+                   "repeatInterval": "monthDays",
+                   "on": [
+                          "3",
+                          "4",
+                          "5",
+                          "6"
+                          ],
+                   "startDate": "2018-03-02T08:45:07.130Z",
+                   "expirationDate": "2018-03-08T08:45:10.280Z",
+                   "fromTime": "02:00:00",
+                   "toTime": "16:00:00"
+               }
+               ]
+}
