@@ -118,11 +118,11 @@
       <BreakpointProxy
          BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
          <BreakpointContent
-            shouldBeEnabled = "No"
+            shouldBeEnabled = "Yes"
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "NewCollapsedPolices/PolicyViewModel.swift"
-            timestampString = "541593725.908397"
+            timestampString = "541866155.0071909"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "33"
@@ -131,49 +131,49 @@
             landmarkType = "3">
             <Locations>
                <Location
-                  shouldBeEnabled = "No"
+                  shouldBeEnabled = "Yes"
                   ignoreCount = "0"
                   continueAfterRunningActions = "No"
                   symbolName = "NewCollapsedPolices.PolicyViewModel.policyItems.getter : Swift.Array&lt;NewCollapsedPolices.PolicyViewModelItem&gt;"
                   moduleName = "NewCollapsedPolices"
                   usesParentBreakpointCondition = "Yes"
                   urlString = "file:///Magy/NewCollapsedPolices/NewCollapsedPolices/PolicyViewModel.swift"
-                  timestampString = "541338083.4538929"
+                  timestampString = "541927278.169278"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "31"
-                  endingLineNumber = "31"
-                  offsetFromSymbolStart = "104">
+                  startingLineNumber = "33"
+                  endingLineNumber = "33"
+                  offsetFromSymbolStart = "109">
                </Location>
                <Location
-                  shouldBeEnabled = "No"
+                  shouldBeEnabled = "Yes"
                   ignoreCount = "0"
                   continueAfterRunningActions = "No"
                   symbolName = "NewCollapsedPolices.PolicyViewModel.policyItems.setter : Swift.Array&lt;NewCollapsedPolices.PolicyViewModelItem&gt;"
                   moduleName = "NewCollapsedPolices"
                   usesParentBreakpointCondition = "Yes"
                   urlString = "file:///Magy/NewCollapsedPolices/NewCollapsedPolices/PolicyViewModel.swift"
-                  timestampString = "541338083.4560061"
+                  timestampString = "541927278.176236"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "31"
-                  endingLineNumber = "31"
-                  offsetFromSymbolStart = "120">
+                  startingLineNumber = "33"
+                  endingLineNumber = "33"
+                  offsetFromSymbolStart = "112">
                </Location>
                <Location
-                  shouldBeEnabled = "No"
+                  shouldBeEnabled = "Yes"
                   ignoreCount = "0"
                   continueAfterRunningActions = "No"
                   symbolName = "NewCollapsedPolices.PolicyViewModel.init() -&gt; NewCollapsedPolices.PolicyViewModel"
                   moduleName = "NewCollapsedPolices"
                   usesParentBreakpointCondition = "Yes"
                   urlString = "file:///Magy/NewCollapsedPolices/NewCollapsedPolices/PolicyViewModel.swift"
-                  timestampString = "541338083.457847"
+                  timestampString = "541927278.182458"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "31"
-                  endingLineNumber = "31"
-                  offsetFromSymbolStart = "20">
+                  startingLineNumber = "33"
+                  endingLineNumber = "33"
+                  offsetFromSymbolStart = "94">
                </Location>
             </Locations>
          </BreakpointContent>
@@ -185,7 +185,7 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "NewCollapsedPolices/PolicyViewModel.swift"
-            timestampString = "541593725.908494"
+            timestampString = "541866155.00752"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "245"
@@ -248,13 +248,13 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "NewCollapsedPolices/PolicyResults.swift"
-            timestampString = "541593725.908567"
+            timestampString = "541927277.492597"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "123"
             endingLineNumber = "123"
-            landmarkName = "getStartExpireDateTimeString(dateString:)"
-            landmarkType = "9">
+            landmarkName = "unknown"
+            landmarkType = "0">
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy
@@ -280,7 +280,7 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "NewCollapsedPolices/PolicyViewModel.swift"
-            timestampString = "541593725.908953"
+            timestampString = "541866155.008004"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "238"

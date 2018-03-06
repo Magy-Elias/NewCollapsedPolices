@@ -15,14 +15,14 @@
 		800A82502042BF570042C7D1 /* PolicyResults.swift in Sources */ = {isa = PBXBuildFile; fileRef = 800A824F2042BF570042C7D1 /* PolicyResults.swift */; };
 		800A82532042D7E80042C7D1 /* HeaderView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 800A82512042D7E80042C7D1 /* HeaderView.swift */; };
 		800A82542042D7E80042C7D1 /* HeaderView.xib in Resources */ = {isa = PBXBuildFile; fileRef = 800A82522042D7E80042C7D1 /* HeaderView.xib */; };
-		80105FC8203ED8250067BE89 /* Result.swift in Sources */ = {isa = PBXBuildFile; fileRef = 80105FC5203ED8250067BE89 /* Result.swift */; };
-		80105FC9203ED8250067BE89 /* DataService.swift in Sources */ = {isa = PBXBuildFile; fileRef = 80105FC6203ED8250067BE89 /* DataService.swift */; };
-		80105FCA203ED8250067BE89 /* JSON_Base.swift in Sources */ = {isa = PBXBuildFile; fileRef = 80105FC7203ED8250067BE89 /* JSON_Base.swift */; };
 		80105FD0203EDB470067BE89 /* ServerData.json in Resources */ = {isa = PBXBuildFile; fileRef = 80105FCF203EDB470067BE89 /* ServerData.json */; };
 		80105FE7203F05D40067BE89 /* PolicyCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 80105FE5203F05D40067BE89 /* PolicyCell.swift */; };
 		80105FE8203F05D40067BE89 /* PolicyCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = 80105FE6203F05D40067BE89 /* PolicyCell.xib */; };
 		80105FEC203F1F160067BE89 /* PolicyViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 80105FEB203F1F160067BE89 /* PolicyViewModel.swift */; };
 		80691D362047F8DB00C27210 /* ServerData2.json in Resources */ = {isa = PBXBuildFile; fileRef = 80691D352047F8DB00C27210 /* ServerData2.json */; };
+		80D8247D20482FF000C3FFB7 /* DataService.swift in Sources */ = {isa = PBXBuildFile; fileRef = 80D8247A20482FF000C3FFB7 /* DataService.swift */; };
+		80D8247E20482FF000C3FFB7 /* Result.swift in Sources */ = {isa = PBXBuildFile; fileRef = 80D8247B20482FF000C3FFB7 /* Result.swift */; };
+		80D8247F20482FF000C3FFB7 /* JSON_Base.swift in Sources */ = {isa = PBXBuildFile; fileRef = 80D8247C20482FF000C3FFB7 /* JSON_Base.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -36,14 +36,14 @@
 		800A824F2042BF570042C7D1 /* PolicyResults.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PolicyResults.swift; sourceTree = "<group>"; };
 		800A82512042D7E80042C7D1 /* HeaderView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HeaderView.swift; sourceTree = "<group>"; };
 		800A82522042D7E80042C7D1 /* HeaderView.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = HeaderView.xib; sourceTree = "<group>"; };
-		80105FC5203ED8250067BE89 /* Result.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = Result.swift; path = ../../Xcode_JsonTrial_MagyElias/JsonTrial/JsonTrial/Result.swift; sourceTree = "<group>"; };
-		80105FC6203ED8250067BE89 /* DataService.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = DataService.swift; path = ../../Xcode_JsonTrial_MagyElias/JsonTrial/JsonTrial/DataService.swift; sourceTree = "<group>"; };
-		80105FC7203ED8250067BE89 /* JSON_Base.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = JSON_Base.swift; path = ../../Xcode_JsonTrial_MagyElias/JsonTrial/JsonTrial/JSON_Base.swift; sourceTree = "<group>"; };
 		80105FCF203EDB470067BE89 /* ServerData.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = ServerData.json; sourceTree = "<group>"; };
 		80105FE5203F05D40067BE89 /* PolicyCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PolicyCell.swift; sourceTree = "<group>"; };
 		80105FE6203F05D40067BE89 /* PolicyCell.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = PolicyCell.xib; sourceTree = "<group>"; };
 		80105FEB203F1F160067BE89 /* PolicyViewModel.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PolicyViewModel.swift; sourceTree = "<group>"; };
 		80691D352047F8DB00C27210 /* ServerData2.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = ServerData2.json; sourceTree = "<group>"; };
+		80D8247A20482FF000C3FFB7 /* DataService.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DataService.swift; sourceTree = "<group>"; };
+		80D8247B20482FF000C3FFB7 /* Result.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Result.swift; sourceTree = "<group>"; };
+		80D8247C20482FF000C3FFB7 /* JSON_Base.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = JSON_Base.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -98,9 +98,9 @@
 				80105FEB203F1F160067BE89 /* PolicyViewModel.swift */,
 				80105FCF203EDB470067BE89 /* ServerData.json */,
 				80691D352047F8DB00C27210 /* ServerData2.json */,
-				80105FC6203ED8250067BE89 /* DataService.swift */,
-				80105FC7203ED8250067BE89 /* JSON_Base.swift */,
-				80105FC5203ED8250067BE89 /* Result.swift */,
+				80D8247A20482FF000C3FFB7 /* DataService.swift */,
+				80D8247C20482FF000C3FFB7 /* JSON_Base.swift */,
+				80D8247B20482FF000C3FFB7 /* Result.swift */,
 			);
 			path = NewCollapsedPolices;
 			sourceTree = "<group>";
@@ -188,10 +188,10 @@
 				80105FEC203F1F160067BE89 /* PolicyViewModel.swift in Sources */,
 				36C0EC811EB00BFC0039B330 /* ViewController.swift in Sources */,
 				80105FE7203F05D40067BE89 /* PolicyCell.swift in Sources */,
-				80105FC9203ED8250067BE89 /* DataService.swift in Sources */,
 				36C0EC7F1EB00BFC0039B330 /* AppDelegate.swift in Sources */,
-				80105FCA203ED8250067BE89 /* JSON_Base.swift in Sources */,
-				80105FC8203ED8250067BE89 /* Result.swift in Sources */,
+				80D8247D20482FF000C3FFB7 /* DataService.swift in Sources */,
+				80D8247F20482FF000C3FFB7 /* JSON_Base.swift in Sources */,
+				80D8247E20482FF000C3FFB7 /* Result.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
